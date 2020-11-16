@@ -1,0 +1,9 @@
+h1{
+    color: darkblue;
+}
+
+.header{
+    color: blueviolet;
+    display:flex;
+    justify-content: space-evenly;
+}
